@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="get_data">Get data</string>
+    <string name="add_data">add data</string>
+    <string name="product_name">PRODUCT NAME</string>
+    <string name="product_cost">PRODUCT COST</string>
+    <string name="product_quantity">PRODUCT QUANTITY</string>
+    <string name="product_price">PRODUCT PRICE:</string>
+    <string name="product_quantity_">PRODUCT QUANTITY:</string>
+    <string name="insert_dummy_data">Insert dummy data</string>
+    <string name="delete_all_data">Delete all data</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+
+    <string name="category_measurement">Measurement</string>
+
+    <string name="hint_product_name">Product Name</string>
+
+    <string name="hint_product_price">Product Price</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_name">Supplier Name</string>
+
+    <string name="unit_price">$</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="quantity">0</string>
+    <string name="supplier_data">Supplier data</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_phone_number">Supplier Phone Number</string>
+    <string name="no_data_in_inventory">NO DATA IN INVENTORY</string>
+    <string name="add_new">Add new</string>
+    <string name="click_on_the_button_in_the_top_to_add_a_product">Click on the + button in the top to add a product!</string>
+</resources>
